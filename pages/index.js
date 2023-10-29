@@ -2,7 +2,7 @@ import Sidebar from "/components/sidebar";
 
 export default function Home() {
   return (
-    <div>
+    <div className="bg-black h-screen overflow-hidden">
     <main>
     <Sidebar/>
 
