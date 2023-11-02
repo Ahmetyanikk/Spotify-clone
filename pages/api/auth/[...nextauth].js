@@ -69,10 +69,10 @@ export const authOptions = {
       return session;
 
 
-    }
+    },
 
 
-  }
-}
+  },
+};
 
 export default NextAuth(authOptions)
